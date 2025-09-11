@@ -13,7 +13,7 @@ export default function Navbar() {
           <li>
             <a
               href="#alumni"
-              className="hidden md:inline-block bg-blue-500 text-white px-5 py-2 rounded-lg hover:bg-blue-500 transition"
+              className="hidden md:inline-block bg-blue-600 text-white px-5 py-2 rounded-lg hover:bg-blue-400 transition"
             >
               Login as Alumni
             </a>
@@ -21,7 +21,7 @@ export default function Navbar() {
           <li>
             <a
               href="#student"
-              className="hidden md:inline-block bg-blue-500 text-white px-5 py-2 rounded-lg hover:bg-blue-500 transition"
+              className="hidden md:inline-block bg-blue-600 text-white px-5 py-2 rounded-lg hover:bg-blue-400 transition"
             >
               Login as student
             </a>
@@ -30,7 +30,7 @@ export default function Navbar() {
           <li>
             <a
               href="#contact"
-              className="hidden md:inline-block bg-blue-500 text-white px-5 py-2 rounded-lg hover:bg-blue-500 transition"
+              className="hidden md:inline-block bg-blue-600 text-white px-5 py-2 rounded-lg hover:bg-blue-400 transition"
             >
               Contact
             </a>
